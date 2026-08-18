@@ -25,6 +25,12 @@
 | **Cyril** | Boy | Classic, vintage boy name with a strong, scholarly sound. |
 | **Nino** | Both | Used as a girl’s name in some cultures (notably Georgian, from Saint Nino) and as a boy’s name in others (Italian/Spanish, often a diminutive). |
 | **Luigina** | Girl | Italian feminine name; a distinctive diminutive form with a graceful, vintage sound. |
+| **Juniper** | Both | Distinctive botanical and nature-inspired name with a lively, modern sound; suitable for any gender. |
+| **Zendaya** | Girl | Distinctive contemporary girl name with a strong, graceful, and memorable sound. |
+| **Hayden** | Both | Modern unisex name with a confident, friendly sound. |
+| **Jansen** | Both | Distinctive surname-style name with a polished, contemporary sound. |
+| **Hudson** | Both | Strong surname-style name with an adventurous, modern quality. |
+| **Elyjah** | Boy | Distinctive modern spelling of Elijah with a strong, familiar sound. |
 
 ## Notes
 

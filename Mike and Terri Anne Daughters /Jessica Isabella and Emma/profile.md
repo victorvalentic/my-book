@@ -33,6 +33,9 @@
 - **School:** Hillfield Strathallan College
 - Emma’s mother dies from breast cancer when Emma is seven.
 - Emma and her father drive across Canada to get to Burlington.
+- Emma’s father is Randy, Key Corporation’s Vice President of Human Resources.
+- Randy is not introduced until Jessica Isabella and Emma are already friends.
+- Terri Anne does not see or encounter Randy until Jessica Isabella and Emma come out to the family.
 - Emma and Jessica Isabella both want to be doctors.
 
 ## Burn Scar Backstory
